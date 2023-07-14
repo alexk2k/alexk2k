@@ -1,13 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
+
 
           
-<!--
-**serene-machine/serene-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
-
--->
 ### I'm Alex, a Full Stack Developer
 
 <p>
