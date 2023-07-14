@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ### I'm Alex, a Full Stack Developer
-
+<!-- icons from https://devicon.dev/ -->
 <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
@@ -29,7 +29,7 @@
           
           
 - 🔭 I’m currently working on the code for an Arduino microcontroller to measure the thrust of brushless DC motors.
-- 🌱 I’m currently learning C, C++, PostgreSQL, Golang
+- 🌱 I’m currently learning C, C++, Golang
 - 💻 Recently finished <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches
 - ⚡ I also build and fly UAVs (why I am currently writing code for Arduino)
 - 📫 How to reach me: alexknight@posteo.net
