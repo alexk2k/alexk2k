@@ -30,6 +30,6 @@
           
 - 🔭 I’m currently working on the code for an Arduino microcontroller to measure the thrust of brushless DC motors.
 - 🌱 I’m currently learning C, C++, PostgreSQL, Golang
-- 💻 Recently finished <a href="lightstack.tech">lightstack.tech</a> - an e-commerce site for torches
+- 💻 Recently finished <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches
 - ⚡ I also build and fly UAVs (why I am currently writing code for Arduino)
 - 📫 How to reach me: alexknight@posteo.net
