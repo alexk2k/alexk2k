@@ -32,4 +32,4 @@
 - 🌱 I’m currently learning C, C++, Golang
 - 💻 Recently finished <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches
 - ⚡ I also build and fly UAVs (why I am currently writing code for Arduino)
-- 📫 How to reach me: alexknight@posteo.net
+
