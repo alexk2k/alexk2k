@@ -4,7 +4,7 @@
           
 ### Hi there 👋
 
-### I'm Alex, a Full Stack Developer
+### I'm Alex, a Full Stack Developer and UAV pilot
 <!-- icons from https://devicon.dev/ -->
 <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
