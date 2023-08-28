@@ -30,6 +30,6 @@
           
           
 - 🔭 I’m currently working on the code for an Arduino microcontroller to measure the thrust of brushless DC motors.
-- 💻 Recently finished <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches
-- ⚡ I also build and fly UAVs
+- 💻 Recently finished <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches.
+- ⚡ I also build and fly UAVs.
 
