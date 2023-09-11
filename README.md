@@ -2,10 +2,14 @@
 
 
           
-### Hi there 👋
+## Hi there 👋
 
-### I'm Alex, a Full Stack Developer and UAV pilot
+## I'm Alex, a Full Stack Developer and UAV pilot
 <!-- icons from https://devicon.dev/ -->
+## About me
+Full stack dev working with JavaScript, React and Node a lot.  I also build bespoke UAVs and recently have been developing an Arduino based thruststand for measuring the thrust produced by DC motors.  I just completed the AWS cloud practitioner course and lookng to expand my skills in cloud engineering and development.
+
+## Technologies I work with
 
 #### Front end
 <p>
@@ -47,8 +51,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 </p>
           
-About me
-Full stack dev working with JavaScript, React and Node a lot.  I also build bespoke UAVs and recently have been developing an Arduino based thruststand for measuring the thrust produced by DC motors.  I just completed the AWS cloud practitioner course and lookng to expand my skills in cloud engineering and development.
+
 
 Some of my projects incude:
 - <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
