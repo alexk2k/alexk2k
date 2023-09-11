@@ -2,12 +2,10 @@
 
 
           
-## Hi there 👋
-
-## I'm Alex, a Full Stack Developer and UAV pilot
+## Hi there 👋, I'm Alex, a Full Stack Developer and UAV pilot
 <!-- icons from https://devicon.dev/ -->
 ## About me
-Full stack dev working with JavaScript, React and Node a lot.  I also build bespoke UAVs and recently have been developing an Arduino based thruststand for measuring the thrust produced by DC motors.  I just completed the AWS cloud practitioner course and lookng to expand my skills in cloud engineering and development.
+Im a full stack dev with a love for all things code related and a keen interest in aviation ✈️, Formula 1 🏎️ and the outdoors 🌳. I am working with JavaScript, React and NodeJS much of the time and I also build and fly bespoke UAVs.  I recently completed the AWS cloud practitioner course and lookng to expand my skills in cloud engineering and development.
 
 ## Technologies I work with
 
@@ -50,11 +48,9 @@ Full stack dev working with JavaScript, React and Node a lot.  I also build besp
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 </p>
-          
 
-
-Some of my projects incude:
+## Some of my projects
 - <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
-- The aforementioned thruststand for measuring thrust from DC motors, built with C and an Arduino.
+- A thruststand for measuring thrust from DC motors, built with C, Python and an Arduino (sorry, no link).
 - AvMap, a small applet for mapping aviation data built with React (link coming soon).
 
