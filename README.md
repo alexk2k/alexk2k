@@ -5,7 +5,7 @@
 ## Hi there 👋, I'm Alex, a Full Stack Developer and UAV pilot
 <!-- icons from https://devicon.dev/ -->
 ## About me
-I'm a full stack dev with a love for all things code related and a keen interest in aviation ✈️, Formula 1 🏎️ and the outdoors 🌳. At the moment I am working with JavaScript, React and NodeJS much of the time and I also build and fly bespoke UAVs.  I recently completed the AWS cloud practitioner course and lookng to expand my skills in cloud engineering and development.
+I'm a full stack dev working with JavaScript, React and NodeJS much of the time. I also build and fly bespoke UAVs.
 
 ## Technologies I work with
 
