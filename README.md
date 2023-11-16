@@ -51,8 +51,8 @@ I'm a full stack dev working with JavaScript, React and NodeJS much of the time.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 </p>
 
-## Some of my projects
+## Some of my recent projects
 - <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
 - A thruststand for measuring thrust from DC motors, built with C, Python and an Arduino (sorry, no link).
-- AvMap, a small applet for mapping aviation data built with React (link coming soon).
+- AvMap, a small app for mapping aviation data built with React (link coming soon).
 
