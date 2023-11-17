@@ -2,10 +2,15 @@
 
 
           
-## Hi there 👋, I'm Alex, a Full Stack Developer and UAV pilot
+## Hi there 👋, I'm Alex, a full stack developer and UAV pilot
 <!-- icons from https://devicon.dev/ -->
-## About me
-I'm a full stack dev working with JavaScript, React and NodeJS much of the time. I also build and fly bespoke UAVs.
+
+I have a keen interest in developing back-end logic, web-related privacy and security issues and all things aviation related.  A background in science from my pre-coding days developed within me a sound appreciation for utilizing data to analyze processes.  When I am not coding, I design, build and operate bespoke and 'store-bought' UAVs. 
+
+## Some of my recent projects
+- <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
+- A thruststand for measuring thrust from DC motors, built with C, Python and an Arduino (sorry, no link).
+- AvMap, a small app for mapping aviation data built with React (link coming soon).
 
 ## Technologies I work with
 
@@ -51,8 +56,4 @@ I'm a full stack dev working with JavaScript, React and NodeJS much of the time.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" /> 
 </p>
 
-## Some of my recent projects
-- <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
-- A thruststand for measuring thrust from DC motors, built with C, Python and an Arduino (sorry, no link).
-- AvMap, a small app for mapping aviation data built with React (link coming soon).
 
