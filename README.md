@@ -10,7 +10,7 @@ I have a keen interest in developing back-end logic, web-related privacy and sec
 ## Some of my recent projects
 - <a href="https://www.lightstack.tech">lightstack.tech</a> - an e-commerce site for torches, built with HTML, SCSS, JavaScript, NodeJS and MongoDB.
 - A thruststand for measuring thrust from DC motors, built with C, Python and an Arduino (sorry, no link).
-- AvMap, a small app for mapping aviation data built with React (link coming soon).
+- <a href="https://starfish-app-y4kev.ondigitalocean.app" >AvMap</a>, a small app for mapping aviation data built with React (link coming soon).
 
 ## Technologies I work with
 
